@@ -4,6 +4,7 @@ Koleksi ringkasan pengetahuan teknis, pola arsitektur, dan referensi sistem.
 
 ## 🗓️ Catatan Harian (Daily Syntheses)
 
+- [[daily/2026-11-23.md|2026-11-23]] - Ringkasan Wawasan Teknis
 - [[daily/2026-11-22.md|2026-11-22]] - Ringkasan Wawasan Teknis
 - [[daily/2026-11-21.md|2026-11-21]] - Ringkasan Wawasan Teknis
 - [[daily/2026-11-20.md|2026-11-20]] - Ringkasan Wawasan Teknis
